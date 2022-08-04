@@ -3,9 +3,8 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-MiddleBenchAnimuthyam-red)](https://www.youtube.com/channel/UCITNjWymiPodQ7fzr6PT4lQ)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-hemanth-yellow)](https://stackoverflow.com/users/19616578/hemanth-kumar-ry)
 
-I'm a
-Full stack development professional,
-The crossover between design and programming has always been of interest to me, I've been lucky enough to working alongside some talented teams for a number of high profile websites. I will aquire a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive), database(MongoDB)
+I want to be aFull stack development professional,
+The crossover between design and programming has always been of interest to me, I've been lucky enough to learn alongside with talented team for learning and developing of high profile websites. I will aquire a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive), database(MongoDB)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Hemanthkumarreddy/count.svg)
